@@ -1,0 +1,18 @@
+- name: Chopok
+  urls:
+  - https://www.meteoblue.com/sk/po%C4%8Dasie/predpove%C4%8F/multimodel/chopok_slovensk%c3%a1-republika_3060717?fcstlength=168
+  - http://www.shmu.sk/sk/?page=1&id=meteo_num_mgram&nwp_mesto=31477
+  - http://www.shmu.sk/sk/?page=1&id=meteo_num_mgram10&nwp_mesto=31477
+  - https://www.yr.no/en/details/graph/2-3060717/Slovakia/Chopok
+
+
+- name: Rysy
+  urls:
+  - https://www.meteoblue.com/sk/po%C4%8Dasie/predpove%C4%8F/multimodel/rysy_po%c4%besko_759825?fcstlength=168
+  - https://www.yr.no/en/details/graph/2-759825/Poland/Lesser%20Poland%20Voivodeship/Powiat%20tatrza%C5%84ski/Rysy
+
+
+- name: Ostry Rohac
+  urls:
+  - https://www.meteoblue.com/sk/po%C4%8Dasie/predpove%C4%8F/multimodel/ostr%c3%bd-roh%c3%a1%c4%8d_slovensk%c3%a1-republika_3058324?fcstlength=168
+  - https://www.yr.no/en/details/graph/2-3058324/Slovakia/Ostr%C3%BD%20Roh%C3%A1%C4%8D
